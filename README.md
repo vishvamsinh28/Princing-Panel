@@ -1,2 +1,2 @@
 # Princing-Panel
-Responsive Pricing Designed Using HTML and CSS
+Responsive Pricing Panel Designed Using HTML and CSS
